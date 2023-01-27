@@ -1,3 +1,6 @@
+A small Vue3 project following a workshop on FrontEnd masters by [Sarah Drasner](https://github.com/sdras?tab=repositories) ! 
+see online @: https://studioklatz.com/vue/aliengame/
+
 # aliengame
 
 ## Project setup
